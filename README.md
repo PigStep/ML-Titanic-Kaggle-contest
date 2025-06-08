@@ -63,7 +63,7 @@ The dataset includes two files:
 │   └── Age_RF_predictor.joblib # For age NA filing
 ├── notebooks/
 |   ├── Age regressor notebook/ 
-│   │    └── Age_regressor.ipynb # Developed model for na filling
+│   │    └── Age_regressor.ipynb # Notebook for na filling
 │   └── ML titanic prediction/
 │       └── titanic_model.ipynb  # Main notebook for EDA and modeling
 ├── submission.csv       # Final prediction file for Kaggle submission
@@ -110,5 +110,3 @@ jupyter notebook
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 ---
-
-Let me know if you'd like to add badges (like build status, license, Kaggle score), screenshots, or a more advanced CI/CD setup to the README!
