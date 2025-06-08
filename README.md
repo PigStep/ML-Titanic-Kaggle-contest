@@ -61,8 +61,13 @@ The dataset includes two files:
 ├── data/
 │   ├── train.csv        # Training data
 │   └── test.csv         # Test data
+├── job lib models/      # Used models
+│   └── Age_RF_predictor.joblib # For age NA filing
 ├── notebooks/
-│   └── titanic_model.ipynb  # Main notebook for EDA and modeling
+|   ├── Age regressor notebook/ 
+│   │    └── Age_regressor.ipynb # Developed model for na filling
+│   └── ML titanic prediction/
+│       └── titanic_model.ipynb  # Main notebook for EDA and modeling
 ├── submission.csv       # Final prediction file for Kaggle submission
 └── README.md            # This file
 ```
