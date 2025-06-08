@@ -45,8 +45,8 @@ The dataset includes two files:
 - Pandas
 - NumPy
 - Scikit-learn
+    - Joblib # for model reusage
 - Scipy
-  - Joblib
 - Matplotlib / Seaborn (for visualization)
 - Jupyter Notebook
 
