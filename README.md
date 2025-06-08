@@ -49,6 +49,8 @@ The dataset includes two files:
 - Pandas
 - NumPy
 - Scikit-learn
+- Scipy
+  - Joblib
 - Matplotlib / Seaborn (for visualization)
 - Jupyter Notebook
 
