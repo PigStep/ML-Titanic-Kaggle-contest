@@ -1,7 +1,3 @@
-Here is a polished and professional `README.md` for your GitHub repository based on the provided information:
-
----
-
 # ML Titanic Kaggle Contest 🚢
 
 This project is part of the [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview) competition. The goal is to use machine learning techniques to predict whether a passenger survived the sinking of the RMS Titanic based on available data.
